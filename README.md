@@ -75,7 +75,9 @@ spanishAI/
 
 2. **Install dependencies**
    ```bash
-   npm install
+   npm install dotenv
+   npm install express 
+   npm install ejs
    ```
 
 3. **Environment Configuration**
