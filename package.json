@@ -1,0 +1,30 @@
+{
+  "name": "spanisai",
+  "version": "1.0.0",
+  "description": "AI Assistant to help with AI Laws",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "assistant",
+    "openai"
+  ],
+  "author": "Pyaox",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "dompurify": "^3.2.6",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "lru-cache": "^11.1.0",
+    "openai": "^5.16.0",
+    "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

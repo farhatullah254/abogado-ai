@@ -1,0 +1,12 @@
+#userMessageDisplay{
+    width: 100%;
+}
+
+hr{display: none;}
+li{
+    margin: 5px;
+}
+
+.switchmodel {
+    display: none;
+}
